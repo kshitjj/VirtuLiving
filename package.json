@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
     "@google/model-viewer": "^3.4.0",
+    "@mui/material": "^5.15.6",
     "@react-three/drei": "^9.96.5",
     "@react-three/fiber": "^8.15.15",
     "@testing-library/jest-dom": "^5.17.0",
